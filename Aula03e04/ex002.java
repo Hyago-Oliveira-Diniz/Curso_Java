@@ -1,4 +1,4 @@
-package Aula03;
+package Aula03e04;
 
    import java.util.Scanner;
 
@@ -19,12 +19,11 @@ public class ex002 {
         } else if (valor > 50 && valor <= 75) {
             System.out.println("Intervalo (50,75]");
         } else if (valor > 75 && valor <= 100) {
-            System.out.println("Intervalo (75,100]");
+            System.out.println("Intervalo (75,100]");    
         } else {
             System.out.println("Fora de intervalo");
         }
 
         teclado.close();
     }
-
 }
