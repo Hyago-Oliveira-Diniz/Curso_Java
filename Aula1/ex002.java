@@ -25,3 +25,7 @@ public class ex002{
        System.out.println("Meu nome é " + nome + " tenho " + altura + " metros de altura e tenho " + idade + " anos.");
     }
 }
+//Nesse exemplo, o programa declara variáveis de diferentes tipos (float, double, int e String) e atribui valores a elas. Em seguida, exibe os valores na tela usando System.out.println.
+//Lembre-se de que o tipo float é usado para representar números de ponto flutuante com precisão simples, enquanto o tipo double é usado para representar números de ponto flutuante com precisão dupla. O tipo int é usado para representar números inteiros, e o tipo String é usado para representar sequências de caracteres (textos).
+//Esse código é um exemplo simples de declaração e uso de variáveis em Java.    
+    

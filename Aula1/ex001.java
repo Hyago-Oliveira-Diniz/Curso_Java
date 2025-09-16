@@ -19,3 +19,6 @@ public class ex001{
     }
     
 }
+//Nesse exemplo, o programa declara variáveis de diferentes tipos inteiros (int, long, short e byte) e atribui valores a elas. Em seguida, exibe os valores na tela usando System.out.println.
+//Lembre-se de que o tipo int é usado para representar números inteiros que ocupam 32 bits, o tipo long é usado para números inteiros maiores que ocupam 64 bits, o tipo short é usado para números inteiros menores que ocupam 16 bits, e o tipo byte é usado para números inteiros muito pequenos que ocupam 8 bits.
+//Esse código é um exemplo simples de declaração e uso de variáveis em Java.  
